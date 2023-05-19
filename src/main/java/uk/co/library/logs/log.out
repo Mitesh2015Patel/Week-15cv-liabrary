@@ -1,0 +1,140 @@
+2023-05-18 10:05:263 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-18 10:05:301 INFO  HomePage :69 - Enter Job tilte:[[ChromeDriver: chrome on WINDOWS (a86ee7927abc09bdf4fb4570a48b9227)] -> id: keywords]
+2023-05-18 10:05:390 INFO  HomePage :75 - EnterLocation:[[ChromeDriver: chrome on WINDOWS (a86ee7927abc09bdf4fb4570a48b9227)] -> xpath: //input[@id='location']]
+2023-05-18 10:05:478 INFO  HomePage :82 - Select Distance:[[ChromeDriver: chrome on WINDOWS (a86ee7927abc09bdf4fb4570a48b9227)] -> id: distance]
+2023-05-18 10:05:583 INFO  HomePage :87 - More search optional link:[[ChromeDriver: chrome on WINDOWS (a86ee7927abc09bdf4fb4570a48b9227)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-18 10:05:669 INFO  HomePage :93 - Enter min salary:30000
+2023-05-18 10:05:784 INFO  HomePage :99 - Enter max salary:600000
+2023-05-18 10:05:880 INFO  HomePage :99 - Enter max salary:Per annum
+2023-05-18 10:05:934 INFO  HomePage :109 - select job type:Permanent
+2023-05-18 10:05:26 INFO  HomePage :115 - find job button:[[ChromeDriver: chrome on WINDOWS (a86ee7927abc09bdf4fb4570a48b9227)] -> id: hp-search-btn]
+2023-05-18 10:05:259 INFO  HomePage :30 - verify the result:[[ChromeDriver: chrome on WINDOWS (a86ee7927abc09bdf4fb4570a48b9227)] -> xpath: //h1[@class='search-header__title']]
+2023-05-18 10:05:43 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-18 10:05:55 INFO  HomePage :69 - Enter Job tilte:[[ChromeDriver: chrome on WINDOWS (5906531745cc07119511e682e4a97906)] -> id: keywords]
+2023-05-18 10:05:129 INFO  HomePage :75 - EnterLocation:[[ChromeDriver: chrome on WINDOWS (5906531745cc07119511e682e4a97906)] -> xpath: //input[@id='location']]
+2023-05-18 10:05:195 INFO  HomePage :82 - Select Distance:[[ChromeDriver: chrome on WINDOWS (5906531745cc07119511e682e4a97906)] -> id: distance]
+2023-05-18 10:05:282 INFO  HomePage :87 - More search optional link:[[ChromeDriver: chrome on WINDOWS (5906531745cc07119511e682e4a97906)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-18 10:05:345 INFO  HomePage :93 - Enter min salary:25000
+2023-05-18 10:05:547 INFO  HomePage :99 - Enter max salary:500000
+2023-05-18 10:05:612 INFO  HomePage :99 - Enter max salary:Per annum
+2023-05-18 10:05:654 INFO  HomePage :109 - select job type:Permanent
+2023-05-18 10:05:736 INFO  HomePage :115 - find job button:[[ChromeDriver: chrome on WINDOWS (5906531745cc07119511e682e4a97906)] -> id: hp-search-btn]
+2023-05-18 10:05:542 INFO  HomePage :30 - verify the result:[[ChromeDriver: chrome on WINDOWS (5906531745cc07119511e682e4a97906)] -> xpath: //h1[@class='search-header__title']]
+2023-05-18 10:05:705 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-18 10:05:733 INFO  HomePage :69 - Enter Job tilte:[[ChromeDriver: chrome on WINDOWS (3d1fdf3a156f31a4bdef2ee061dbb096)] -> id: keywords]
+2023-05-18 10:05:828 INFO  HomePage :75 - EnterLocation:[[ChromeDriver: chrome on WINDOWS (3d1fdf3a156f31a4bdef2ee061dbb096)] -> xpath: //input[@id='location']]
+2023-05-18 10:05:895 INFO  HomePage :82 - Select Distance:[[ChromeDriver: chrome on WINDOWS (3d1fdf3a156f31a4bdef2ee061dbb096)] -> id: distance]
+2023-05-18 10:05:978 INFO  HomePage :87 - More search optional link:[[ChromeDriver: chrome on WINDOWS (3d1fdf3a156f31a4bdef2ee061dbb096)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-18 10:05:15 INFO  HomePage :93 - Enter min salary:20000
+2023-05-18 10:05:116 INFO  HomePage :99 - Enter max salary:400000
+2023-05-18 10:05:219 INFO  HomePage :99 - Enter max salary:Per annum
+2023-05-18 10:05:260 INFO  HomePage :109 - select job type:Permanent
+2023-05-18 10:05:341 INFO  HomePage :115 - find job button:[[ChromeDriver: chrome on WINDOWS (3d1fdf3a156f31a4bdef2ee061dbb096)] -> id: hp-search-btn]
+2023-05-18 10:05:683 INFO  HomePage :30 - verify the result:[[ChromeDriver: chrome on WINDOWS (3d1fdf3a156f31a4bdef2ee061dbb096)] -> xpath: //h1[@class='search-header__title']]
+2023-05-18 10:05:44 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-18 10:05:54 INFO  HomePage :69 - Enter Job tilte:[[ChromeDriver: chrome on WINDOWS (4c8ac06f722dff1176099675a89b3294)] -> id: keywords]
+2023-05-18 10:05:129 INFO  HomePage :75 - EnterLocation:[[ChromeDriver: chrome on WINDOWS (4c8ac06f722dff1176099675a89b3294)] -> xpath: //input[@id='location']]
+2023-05-18 10:05:208 INFO  HomePage :82 - Select Distance:[[ChromeDriver: chrome on WINDOWS (4c8ac06f722dff1176099675a89b3294)] -> id: distance]
+2023-05-18 10:05:294 INFO  HomePage :87 - More search optional link:[[ChromeDriver: chrome on WINDOWS (4c8ac06f722dff1176099675a89b3294)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-18 10:05:347 INFO  HomePage :93 - Enter min salary:30000
+2023-05-18 10:05:500 INFO  HomePage :99 - Enter max salary:500000
+2023-05-18 10:05:572 INFO  HomePage :99 - Enter max salary:Per annum
+2023-05-18 10:05:613 INFO  HomePage :109 - select job type:Permanent
+2023-05-18 10:05:691 INFO  HomePage :115 - find job button:[[ChromeDriver: chrome on WINDOWS (4c8ac06f722dff1176099675a89b3294)] -> id: hp-search-btn]
+2023-05-18 10:05:157 INFO  HomePage :30 - verify the result:[[ChromeDriver: chrome on WINDOWS (4c8ac06f722dff1176099675a89b3294)] -> xpath: //h1[@class='search-header__title']]
+2023-05-18 10:05:171 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-18 10:05:192 INFO  HomePage :69 - Enter Job tilte:[[ChromeDriver: chrome on WINDOWS (ad3785b7f35a35c9de808f198b3b28d3)] -> id: keywords]
+2023-05-18 10:05:306 INFO  HomePage :75 - EnterLocation:[[ChromeDriver: chrome on WINDOWS (ad3785b7f35a35c9de808f198b3b28d3)] -> xpath: //input[@id='location']]
+2023-05-18 10:05:380 INFO  HomePage :82 - Select Distance:[[ChromeDriver: chrome on WINDOWS (ad3785b7f35a35c9de808f198b3b28d3)] -> id: distance]
+2023-05-18 10:05:429 INFO  HomePage :87 - More search optional link:[[ChromeDriver: chrome on WINDOWS (ad3785b7f35a35c9de808f198b3b28d3)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-18 10:05:498 INFO  HomePage :93 - Enter min salary:20000
+2023-05-18 10:05:611 INFO  HomePage :99 - Enter max salary:300000
+2023-05-18 10:05:683 INFO  HomePage :99 - Enter max salary:Per annum
+2023-05-18 10:05:734 INFO  HomePage :109 - select job type:Permanent
+2023-05-18 10:05:847 INFO  HomePage :115 - find job button:[[ChromeDriver: chrome on WINDOWS (ad3785b7f35a35c9de808f198b3b28d3)] -> id: hp-search-btn]
+2023-05-18 10:05:05 INFO  HomePage :30 - verify the result:[[ChromeDriver: chrome on WINDOWS (ad3785b7f35a35c9de808f198b3b28d3)] -> xpath: //h1[@class='search-header__title']]
+2023-05-18 10:05:638 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-18 10:05:665 INFO  HomePage :69 - Enter Job tilte:[[ChromeDriver: chrome on WINDOWS (9f46be1d0bcbfb2d7411d756a910c102)] -> id: keywords]
+2023-05-18 10:05:766 INFO  HomePage :75 - EnterLocation:[[ChromeDriver: chrome on WINDOWS (9f46be1d0bcbfb2d7411d756a910c102)] -> xpath: //input[@id='location']]
+2023-05-18 10:05:829 INFO  HomePage :82 - Select Distance:[[ChromeDriver: chrome on WINDOWS (9f46be1d0bcbfb2d7411d756a910c102)] -> id: distance]
+2023-05-18 10:05:913 INFO  HomePage :87 - More search optional link:[[ChromeDriver: chrome on WINDOWS (9f46be1d0bcbfb2d7411d756a910c102)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-18 10:05:967 INFO  HomePage :93 - Enter min salary:30000
+2023-05-18 10:05:90 INFO  HomePage :99 - Enter max salary:600000
+2023-05-18 10:05:164 INFO  HomePage :99 - Enter max salary:Per annum
+2023-05-18 10:05:207 INFO  HomePage :109 - select job type:Permanent
+2023-05-18 10:05:293 INFO  HomePage :115 - find job button:[[ChromeDriver: chrome on WINDOWS (9f46be1d0bcbfb2d7411d756a910c102)] -> id: hp-search-btn]
+2023-05-18 10:05:113 INFO  HomePage :30 - verify the result:[[ChromeDriver: chrome on WINDOWS (9f46be1d0bcbfb2d7411d756a910c102)] -> xpath: //h1[@class='search-header__title']]
+2023-05-19 10:05:494 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 10:05:197 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 10:05:860 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 10:05:180 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 10:05:229 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 11:05:724 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 11:05:462 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 11:05:377 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 11:05:495 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 11:05:539 INFO  HomePage :69 - Enter Job tilte:[[ChromeDriver: chrome on WINDOWS (52160eb6f4832e8873f1c80b78d80253)] -> id: keywords]
+2023-05-19 11:05:725 INFO  HomePage :75 - EnterLocation:[[ChromeDriver: chrome on WINDOWS (52160eb6f4832e8873f1c80b78d80253)] -> xpath: //input[@id='location']]
+2023-05-19 11:05:833 INFO  HomePage :82 - Select Distance:[[ChromeDriver: chrome on WINDOWS (52160eb6f4832e8873f1c80b78d80253)] -> id: distance]
+2023-05-19 11:05:09 INFO  HomePage :87 - More search optional link:[[ChromeDriver: chrome on WINDOWS (52160eb6f4832e8873f1c80b78d80253)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 11:05:84 INFO  HomePage :93 - Enter min salary:30000
+2023-05-19 11:05:260 INFO  HomePage :99 - Enter max salary:600000
+2023-05-19 11:05:370 INFO  HomePage :99 - Enter max salary:Per annum
+2023-05-19 11:05:435 INFO  HomePage :109 - select job type:Permanent
+2023-05-19 11:05:566 INFO  HomePage :115 - find job button:[[ChromeDriver: chrome on WINDOWS (52160eb6f4832e8873f1c80b78d80253)] -> id: hp-search-btn]
+2023-05-19 11:05:124 INFO  HomePage :30 - verify the result:[[ChromeDriver: chrome on WINDOWS (52160eb6f4832e8873f1c80b78d80253)] -> xpath: //h1[@class='search-header__title']]
+2023-05-19 11:05:640 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 11:05:670 INFO  HomePage :69 - Enter Job tilte:[[ChromeDriver: chrome on WINDOWS (8561740d3e11a9cc1b73b2e2db52dbc3)] -> id: keywords]
+2023-05-19 11:05:812 INFO  HomePage :75 - EnterLocation:[[ChromeDriver: chrome on WINDOWS (8561740d3e11a9cc1b73b2e2db52dbc3)] -> xpath: //input[@id='location']]
+2023-05-19 11:05:882 INFO  HomePage :82 - Select Distance:[[ChromeDriver: chrome on WINDOWS (8561740d3e11a9cc1b73b2e2db52dbc3)] -> id: distance]
+2023-05-19 11:05:974 INFO  HomePage :87 - More search optional link:[[ChromeDriver: chrome on WINDOWS (8561740d3e11a9cc1b73b2e2db52dbc3)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 11:05:63 INFO  HomePage :93 - Enter min salary:25000
+2023-05-19 11:05:276 INFO  HomePage :99 - Enter max salary:500000
+2023-05-19 11:05:422 INFO  HomePage :99 - Enter max salary:Per annum
+2023-05-19 11:05:484 INFO  HomePage :109 - select job type:Permanent
+2023-05-19 11:05:591 INFO  HomePage :115 - find job button:[[ChromeDriver: chrome on WINDOWS (8561740d3e11a9cc1b73b2e2db52dbc3)] -> id: hp-search-btn]
+2023-05-19 11:05:177 INFO  HomePage :30 - verify the result:[[ChromeDriver: chrome on WINDOWS (8561740d3e11a9cc1b73b2e2db52dbc3)] -> xpath: //h1[@class='search-header__title']]
+2023-05-19 11:05:659 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 11:05:672 INFO  HomePage :69 - Enter Job tilte:[[ChromeDriver: chrome on WINDOWS (d00c099938fd01875298a011ebbe8aee)] -> id: keywords]
+2023-05-19 11:05:761 INFO  HomePage :75 - EnterLocation:[[ChromeDriver: chrome on WINDOWS (d00c099938fd01875298a011ebbe8aee)] -> xpath: //input[@id='location']]
+2023-05-19 11:05:838 INFO  HomePage :82 - Select Distance:[[ChromeDriver: chrome on WINDOWS (d00c099938fd01875298a011ebbe8aee)] -> id: distance]
+2023-05-19 11:05:948 INFO  HomePage :87 - More search optional link:[[ChromeDriver: chrome on WINDOWS (d00c099938fd01875298a011ebbe8aee)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 11:05:245 INFO  HomePage :93 - Enter min salary:20000
+2023-05-19 11:05:380 INFO  HomePage :99 - Enter max salary:400000
+2023-05-19 11:05:484 INFO  HomePage :99 - Enter max salary:Per annum
+2023-05-19 11:05:594 INFO  HomePage :109 - select job type:Permanent
+2023-05-19 11:05:766 INFO  HomePage :115 - find job button:[[ChromeDriver: chrome on WINDOWS (d00c099938fd01875298a011ebbe8aee)] -> id: hp-search-btn]
+2023-05-19 11:05:572 INFO  HomePage :30 - verify the result:[[ChromeDriver: chrome on WINDOWS (d00c099938fd01875298a011ebbe8aee)] -> xpath: //h1[@class='search-header__title']]
+2023-05-19 11:05:64 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 11:05:90 INFO  HomePage :69 - Enter Job tilte:[[ChromeDriver: chrome on WINDOWS (289978f1a1608370bcc57aef98c0e0be)] -> id: keywords]
+2023-05-19 11:05:259 INFO  HomePage :75 - EnterLocation:[[ChromeDriver: chrome on WINDOWS (289978f1a1608370bcc57aef98c0e0be)] -> xpath: //input[@id='location']]
+2023-05-19 11:05:344 INFO  HomePage :82 - Select Distance:[[ChromeDriver: chrome on WINDOWS (289978f1a1608370bcc57aef98c0e0be)] -> id: distance]
+2023-05-19 11:05:491 INFO  HomePage :87 - More search optional link:[[ChromeDriver: chrome on WINDOWS (289978f1a1608370bcc57aef98c0e0be)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 11:05:560 INFO  HomePage :93 - Enter min salary:30000
+2023-05-19 11:05:682 INFO  HomePage :99 - Enter max salary:500000
+2023-05-19 11:05:774 INFO  HomePage :99 - Enter max salary:Per annum
+2023-05-19 11:05:819 INFO  HomePage :109 - select job type:Permanent
+2023-05-19 11:05:912 INFO  HomePage :115 - find job button:[[ChromeDriver: chrome on WINDOWS (289978f1a1608370bcc57aef98c0e0be)] -> id: hp-search-btn]
+2023-05-19 11:05:423 INFO  HomePage :30 - verify the result:[[ChromeDriver: chrome on WINDOWS (289978f1a1608370bcc57aef98c0e0be)] -> xpath: //h1[@class='search-header__title']]
+2023-05-19 11:05:655 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 11:05:682 INFO  HomePage :69 - Enter Job tilte:[[ChromeDriver: chrome on WINDOWS (dbdd2d07b4e8d7ea6fcd43362ebc7d8b)] -> id: keywords]
+2023-05-19 11:05:828 INFO  HomePage :75 - EnterLocation:[[ChromeDriver: chrome on WINDOWS (dbdd2d07b4e8d7ea6fcd43362ebc7d8b)] -> xpath: //input[@id='location']]
+2023-05-19 11:05:942 INFO  HomePage :82 - Select Distance:[[ChromeDriver: chrome on WINDOWS (dbdd2d07b4e8d7ea6fcd43362ebc7d8b)] -> id: distance]
+2023-05-19 11:05:995 INFO  HomePage :87 - More search optional link:[[ChromeDriver: chrome on WINDOWS (dbdd2d07b4e8d7ea6fcd43362ebc7d8b)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 11:05:68 INFO  HomePage :93 - Enter min salary:20000
+2023-05-19 11:05:193 INFO  HomePage :99 - Enter max salary:300000
+2023-05-19 11:05:275 INFO  HomePage :99 - Enter max salary:Per annum
+2023-05-19 11:05:321 INFO  HomePage :109 - select job type:Permanent
+2023-05-19 11:05:422 INFO  HomePage :115 - find job button:[[ChromeDriver: chrome on WINDOWS (dbdd2d07b4e8d7ea6fcd43362ebc7d8b)] -> id: hp-search-btn]
+2023-05-19 11:05:874 INFO  HomePage :30 - verify the result:[[ChromeDriver: chrome on WINDOWS (dbdd2d07b4e8d7ea6fcd43362ebc7d8b)] -> xpath: //h1[@class='search-header__title']]
+2023-05-19 11:05:200 INFO  HomePage :64 - Acceptcookies:Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='save']'
+2023-05-19 11:05:228 INFO  HomePage :69 - Enter Job tilte:[[ChromeDriver: chrome on WINDOWS (af10b25b1d8090d4f1c52a70d1a4727a)] -> id: keywords]
+2023-05-19 11:05:402 INFO  HomePage :75 - EnterLocation:[[ChromeDriver: chrome on WINDOWS (af10b25b1d8090d4f1c52a70d1a4727a)] -> xpath: //input[@id='location']]
+2023-05-19 11:05:483 INFO  HomePage :82 - Select Distance:[[ChromeDriver: chrome on WINDOWS (af10b25b1d8090d4f1c52a70d1a4727a)] -> id: distance]
+2023-05-19 11:05:608 INFO  HomePage :87 - More search optional link:[[ChromeDriver: chrome on WINDOWS (af10b25b1d8090d4f1c52a70d1a4727a)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 11:05:705 INFO  HomePage :93 - Enter min salary:30000
+2023-05-19 11:05:858 INFO  HomePage :99 - Enter max salary:600000
+2023-05-19 11:05:951 INFO  HomePage :99 - Enter max salary:Per annum
+2023-05-19 11:05:22 INFO  HomePage :109 - select job type:Permanent
+2023-05-19 11:05:150 INFO  HomePage :115 - find job button:[[ChromeDriver: chrome on WINDOWS (af10b25b1d8090d4f1c52a70d1a4727a)] -> id: hp-search-btn]
+2023-05-19 11:05:25 INFO  HomePage :30 - verify the result:[[ChromeDriver: chrome on WINDOWS (af10b25b1d8090d4f1c52a70d1a4727a)] -> xpath: //h1[@class='search-header__title']]
